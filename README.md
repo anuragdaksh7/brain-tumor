@@ -11,10 +11,6 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
-
 ## 🧐 About <a name = "about"></a>
 
 A Convolution Neural Network based model which categorize given MRI into 4 classes which are 'glioma', 'meningioma', 'notumor', 'pituitary' with over 94% validation/ test accuracy. The dataset was picked from [KAGGLE](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) which has approx 1400 images per class of training data, each image itself is a 512x512 px image which is enough for our project.<br/>

@@ -44,6 +44,12 @@ jupyter notebook
 ```
 - After installing everything, update the relative path of dataset in the brain-tumor.ipynb file
 
+## References
+- [Brain Tumor Segmentation in MRI Images with 3D U-Net and Contextual Transformer](https://arxiv.org/pdf/2407.08470)
+- [BRAIN TUMOR CLASSIFICATION FROM MRI IMAGES USING MACHINE LEARNING](https://arxiv.org/pdf/2407.10630)
+- [Deep Learning in Medical Image Classification from MRI-based Brain Tumor Images](https://arxiv.org/pdf/2408.00636)
+
+
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Python](https://python.org/) - Python
